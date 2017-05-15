@@ -1,0 +1,1 @@
+/root/ceph-ansible.sh
